@@ -1,0 +1,9 @@
+{
+	"name": "sreeja-datafactoryproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2dd941f-f6f8-47a5-b629-4b08bffc3622",
+		"tenantId": "15ef3811-964e-4625-804a-2ce8259194ca"
+	}
+}
